@@ -19,7 +19,7 @@ const Navbar = () => {
         className="text-xl font-syne font-bold cursor-pointer" 
         onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
       >
-        KD
+        SC
       </div>
 
       {/* Desktop Menu */}

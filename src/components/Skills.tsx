@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 
 const skills = [
-  "Java", "C++", "Python", "React.js", "Node.js", "AWS", "SQL", "MongoDB", "Git", "Socket.io"
+  "Python", "Apex", "Node.js","React.js", "AWS", "SQL","Langchain", "MongoDB", "Git", "Django" , "TensorFlow", "PyTorch", "Salesforce", 
 ];
 
 const Skills = () => {

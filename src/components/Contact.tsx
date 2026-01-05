@@ -30,7 +30,7 @@ const Contact = () => {
                   <div>
                     <p className="text-sm text-gray-400">Email</p>
                     <a href="mailto:kedardeshmukh2003@gmail.com" className="text-white hover:text-primary transition-colors">
-                      kedardeshmukh2003@gmail.com
+                      channawarshri@gmail.com
                     </a>
                   </div>
                 </div>
@@ -49,15 +49,15 @@ const Contact = () => {
               <div className="flex flex-col justify-center space-y-6">
                 <p className="text-lg font-bold mb-4">Connect with me</p>
                 <div className="flex gap-4">
-                  <SocialButton href="https://github.com/Kedar200" icon={<Github />} label="GitHub" />
-                  <SocialButton href="https://linkedin.com/in/kedardeshmukh2003" icon={<Linkedin />} label="LinkedIn" />
+                  <SocialButton href="https://github.com/shrikrishnachannawar" icon={<Github />} label="GitHub" />
+                  <SocialButton href="https://www.linkedin.com/in/shrikrishna-channawar-55062a22b/" icon={<Linkedin />} label="LinkedIn" />
                 </div>
               </div>
             </div>
           </div>
 
           <footer className="mt-20 text-gray-500 text-sm">
-            <p>Designed & Built by Kedar Deshmukh</p>
+            <p>Designed & Built by Shrikrishna Channawar</p>
           </footer>
         </motion.div>
       </div>

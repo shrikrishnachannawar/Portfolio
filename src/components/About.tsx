@@ -22,20 +22,15 @@ const About = () => {
             viewport={{ once: true }}
             className="text-2xl md:text-3xl font-space leading-relaxed"
           >
-            I am a Computer Science Graduate from <span className="text-accent">IIIT Vadodara</span>. 
-            Currently building scalable products as a Product Engineer at <span className="text-accent">Shoppin</span>.
+            I am a Artificial Intelligence and Data Science Graduate. <span className="text-accent"></span> 
+             Jr. Software Engieer at <span className="text-accent">Azonik Solutions</span>.
           </motion.p>
 
           <div className="grid grid-cols-2 gap-8">
             <div>
               <h3 className="font-syne font-bold text-xl mb-4 text-gray-500">Experience</h3>
-              <p className="font-space text-lg">Product Engineer @ Shoppin</p>
+              <p className="font-space text-lg">Jr. Software Engineer @ Azonik Solutions</p>
               <p className="font-space text-gray-500">Present</p>
-            </div>
-            <div>
-              <h3 className="font-syne font-bold text-xl mb-4 text-gray-500">Achievements</h3>
-              <p className="font-space text-lg">Winner - IIITV Ideathon</p>
-              <p className="font-space text-lg">Runner-up - CSS Battle</p>
             </div>
           </div>
         </div>
